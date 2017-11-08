@@ -1,0 +1,41 @@
+#content{
+	margin:0 auto 0 auto;
+	padding:20px; 
+}
+a:link{
+	text-decoration:none;
+}
+.main{
+	margin-left:110px;
+}
+.subs{
+	color:red;
+}
+.menu li a:hover{
+	background-color: #F00;
+}
+#post{
+	font-size:16px;
+	background-color:#666;
+	text-align:center;
+}
+#sidebar_tabs{
+	margin:10px;
+}
+#sbtext{
+	padding-top:10px;
+}
+#sidebar_cat{
+	margin:20px;
+	color:red;
+}
+footer{
+	background-color:#313234;
+}
+#footer{
+	margin-left:110px;
+	color:white;
+}
+#footer_content{
+	margin:10px;
+}
